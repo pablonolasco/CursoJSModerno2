@@ -14,8 +14,8 @@ var disponible;
 disponible = true;
 // Inicializar multiples variables
 var categoria = "Computadora",
-    marca = "LG",
-    calificacion = 10;
+  marca = "LG",
+  calificacion = 10;
 
 var nombreProducto;
 var nombre_producto;
